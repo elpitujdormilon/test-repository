@@ -3,4 +3,6 @@ This line was replaced in feature-2 branch
 
 This file was modified locally (to test git pull with modified remote and local repositories)
 
-This lines was added in feature-2 branch
+This line was added in feature-2 branch
+
+This line was added after pushing feature-2 branch into remote repository
